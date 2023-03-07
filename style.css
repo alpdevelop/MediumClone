@@ -1,0 +1,25 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow{
+    background-color: #ffc017; 
+}
+.border-bottom-1{
+border-bottom: 1px solid #414141;    
+}
+
+.image-content{
+    border-radius: 100%;
+}
+
+.btn-radius{
+    border-radius: 50% 0;
+}
+.position{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+}
+
