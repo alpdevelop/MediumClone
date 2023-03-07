@@ -1,2 +1,2 @@
 # MediumClone
-![Medium](https://imgur.com/qcRD5uk)
+![](https://github.com/alpdevelop/MediumClone/blob/master/ss/aa.png)
